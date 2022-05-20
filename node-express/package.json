@@ -1,0 +1,9 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "projeto node com express",
+  "main": "index.js",
+  "repository": "https://github.com/AndreSDS/node",
+  "author": "André_SDS",
+  "license": "MIT"
+}
