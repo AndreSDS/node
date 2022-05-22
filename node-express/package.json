@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "projeto node com express",
   "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
   "repository": "https://github.com/AndreSDS/node",
   "author": "André_SDS",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
